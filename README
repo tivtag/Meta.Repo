@@ -1,0 +1,4 @@
+Implements the first step of a self-replication program in C#.
+
+It still uses the help of another 'builder' program that compiles the code and executes it.
+Next step: Integrate both programs into one.

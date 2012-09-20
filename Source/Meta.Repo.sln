@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meta.Builder", "Meta.Builder\Meta.Builder.csproj", "{1861DCCD-4B8A-42EF-ABF5-A9FA27DC14BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meta.Code", "Meta.Code\Meta.Code.csproj", "{B141963A-9E84-42E5-ABBD-E924BCAA773B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1861DCCD-4B8A-42EF-ABF5-A9FA27DC14BD}.Debug|x86.ActiveCfg = Debug|x86
+		{1861DCCD-4B8A-42EF-ABF5-A9FA27DC14BD}.Debug|x86.Build.0 = Debug|x86
+		{1861DCCD-4B8A-42EF-ABF5-A9FA27DC14BD}.Release|x86.ActiveCfg = Release|x86
+		{1861DCCD-4B8A-42EF-ABF5-A9FA27DC14BD}.Release|x86.Build.0 = Release|x86
+		{B141963A-9E84-42E5-ABBD-E924BCAA773B}.Debug|x86.ActiveCfg = Debug|x86
+		{B141963A-9E84-42E5-ABBD-E924BCAA773B}.Debug|x86.Build.0 = Debug|x86
+		{B141963A-9E84-42E5-ABBD-E924BCAA773B}.Release|x86.ActiveCfg = Release|x86
+		{B141963A-9E84-42E5-ABBD-E924BCAA773B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
